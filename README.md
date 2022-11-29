@@ -1,5 +1,5 @@
 <h2> Hi, I'm Miguel Bautista! </h2>
-<img align='right' src="https://giphy.com/gifs/hackinthewoods-t-rex-hitw-hitw2020-UqAlDtPrxUIT1yYmFp" width="230">
+<img align='right' src="https://media4.giphy.com/media/UqAlDtPrxUIT1yYmFp/giphy.gif?cid=790b761126b3e998067d6095b977e1529dab96013ef9cef6&rid=giphy.gif&ct=g" width="230">
 
 <p>
 <em>
