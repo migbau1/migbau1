@@ -1,5 +1,5 @@
 <h2> Hi, I'm Miguel Bautista! </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://giphy.com/gifs/hackinthewoods-t-rex-hitw-hitw2020-UqAlDtPrxUIT1yYmFp" width="230">
 
 <p>
 <em>
@@ -8,7 +8,7 @@ Software Enginner at
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: mian_9901](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/mian_9901)
+[![Twitter: mian_9901](https://img.shields.io/twitter/follow/mian_9901?style=social)](https://twitter.com/mian_9901)
 [![Linkedin: migbau01](https://img.shields.io/badge/-migbau01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/migbau01/)](https://www.linkedin.com/in/migbau01/)
 [![GitHub migbau1](https://img.shields.io/github/followers/migbau1?label=follow&style=social)](https://github.com/migbau1)
 
