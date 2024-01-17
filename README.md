@@ -16,7 +16,7 @@ Software Enginner at
 ###  A little more about me...  
 
 ```javascript
-const thai = {
+const Miguel = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Redux, Node, Nestjs, Next.js, Webpack, vite, Sass, Jest, Docker],
