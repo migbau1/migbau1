@@ -18,7 +18,7 @@ Software Enginner at
 ```javascript
 const Miguel = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  code: [Javascript, Typescript, C#, Python, Java, PHP],
   tools: [React, Redux, Node, Nestjs, Next.js, Webpack, vite, Sass, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
